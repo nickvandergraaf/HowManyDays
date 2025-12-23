@@ -1,0 +1,21 @@
+{
+  "name": "HowManyDays",
+  "identifier": "com.nickvandergraaf.HowManyDays.v1",
+  "apps": [
+    {
+      "beta": false,
+      "name": "HowManyDays",
+      "bundleIdentifier": "com.nickvandergraaf.HowManyDays.v1",
+      "developerName": "NickvanderGraaf",
+      "subtitle": "Countdown voor je wedstrijden.",
+      "version": "1.2",
+      "versionDate": "2025-12-22T11:36:00+02:00",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/nickvandergraaf/HowManyDays/releases/download/v1.2/HowManyDays.ipa",
+      "localizedDescription": ".",
+      "iconURL": "https://github.com/nickvandergraaf/HowManyDays/releases/download/HowManyDays/Icon.png",
+      "tintColor": "9b54fd",
+      "size": 10462407
+    }
+  ]
+}
