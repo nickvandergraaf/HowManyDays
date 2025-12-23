@@ -6,11 +6,11 @@ De app helpt je om toe te leven naar jouw race en alles wat je nodig hebt op é�
 ✨ Functionaliteiten
 
     ⏳ Countdown naar je hardloopwedstrijd
-    Zie in één oogopslag hoeveel dagen (en uren) het nog duurt tot de start.
+        Zie in één oogopslag hoeveel dagen (en uren) het nog duurt tot de start.
     🎟️ Upload van startbewijs
-    Sla je startnummer digitaal op, zodat je het altijd bij de hand hebt.
+        Sla je startnummer digitaal op, zodat je het altijd bij de hand hebt.
     🚗 Upload van parkeerticket
-    Geen stress meer op de wedstrijddag: je parkeerticket staat veilig in de app.
+        Geen stress meer op de wedstrijddag: je parkeerticket staat veilig in de app.
     🔮 Toekomstige uitbreidingen
 
 HowManyDays wordt actief doorontwikkeld. Geplande functies zijn onder andere:
